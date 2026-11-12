@@ -3,7 +3,7 @@
 [![rank](https://make.fun/badge/coolest-art-01/rexzyyy/coolest-art-01/rank.svg)](https://make.fun/bounty/coolest-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 [![reward](https://make.fun/badge/coolest-art-01/rexzyyy/coolest-art-01/reward.svg)](https://make.fun/bounty/coolest-art-01?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 
-A luminous gold koi crosses a neon city at night, carrying a lantern-bearing traveler on its back. This small Python program writes the bundled JPEG artwork deterministically.
+A lone samurai faces a gigantic blood-red moon under swirling cherry blossom petals. This small Python program writes the bundled JPEG artwork deterministically.
 
 ## Run it
 ```sh
